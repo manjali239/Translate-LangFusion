@@ -4,7 +4,8 @@ Features Multilingual Translation: Translate text between multiple languages usi
 
 Technologies Used Frontend: React.js Backend: Node.js, Express.js Database: MongoDB API: Google Translate API Speech Recognition: Integrated for accurate voice input and output
 
-Installation Clone the repository: git clone https://github.com/yourusername/langfusion.git
+Installation Clone the repository:  https://github.com/manjali239/Translate-LangFusion.git
+
 
 Navigate to the project directory: cd langfusion
 
